@@ -1,0 +1,9 @@
+Name: AKASH KUMAR GOUDA
+branch : civil
+hobbies: gaming, tf2, valorant troll
+
+
+I have an announcement to make:
+Citra and Yuzu Emulator are being sued by Nintendo, and they are 
+withdrawing their source code from GitHub other sites. 
+Fork their build or retain a copy for your future purposes.
